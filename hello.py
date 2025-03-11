@@ -1,1 +1,1 @@
-print("Hello from Main!")
+print("Hello from both main and feature-2!")
